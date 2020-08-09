@@ -22,6 +22,8 @@ Download or clone this respository and put the folder into the `HTML` directory 
 
 In the settings panel of the old web interface under Interface, choose Web Interface: Boulez. 
 
-Refresh the page.
+Refresh the page and enjoy.
+
+The frontend will run faster as your browser caches images and assets.
 
 Boulez is named after the French composer and conductor [Pierre Boulez](https://nyphil.org/about-us/artists/pierre-boulez-1).

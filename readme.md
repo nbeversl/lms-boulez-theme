@@ -7,7 +7,7 @@ If you are looking for the source code for Boulez, go to https://github.com/nbev
 
 # Contents
 
-This repository is a fork of the "Default" theme for Logitech Media Server, provided as provided as a convenience for installing the Boulez frontend. It is identical to the contents of [Default] (https://github.com/Logitech/slimserver/tree/public/8.0/HTML/Default), except:
+This repository is a fork of the "Default" theme for Logitech Media Server, provided as provided as a convenience for installing the Boulez frontend. It is identical to the contents of [Default](https://github.com/Logitech/slimserver/tree/public/8.0/HTML/Default), except:
 
 - index.html is modified to provide a container to bootstrap the React app
 - Default theme HTML is removed from the frontend

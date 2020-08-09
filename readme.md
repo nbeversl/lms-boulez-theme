@@ -5,7 +5,7 @@ Boulez is a modern frontend that brings the speed, extensibility, and usability 
 This repository is a full LMS theme that includes a built "Boulez".
 If you are looking for the source code for Boulez, go to https://github.com/nbeversl/lms-boulez. 
 
-# Contents
+## Contents
 
 This repository is a fork of the "Default" theme for Logitech Media Server, provided as provided as a convenience for installing the Boulez frontend. It is identical to the contents of [Default](https://github.com/Logitech/slimserver/tree/public/8.0/HTML/Default), except:
 
@@ -16,7 +16,7 @@ This repository is a fork of the "Default" theme for Logitech Media Server, prov
 
 The rest of the Default theme is intact so you can still access the old settings panels without having to switch themes.
 
-# Installation
+## Installation
 
 Download or clone this respository and put the folder into the `HTML` directory of your LMS server. The folder will depend on your operating system. See this page for full information: http://wiki.slimdevices.com/index.php/Logitech_Media_Server_file_locations
 
